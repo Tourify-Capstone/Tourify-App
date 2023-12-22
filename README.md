@@ -48,5 +48,5 @@ To develop an application using this stack, follow these steps:
 
 ## Video Demo
 
-[https://drive.google.com/file/d/1ArzH-OEGmbuvZMQt_zzSqHJwBABbIdRA/preview](https://drive.google.com/file/d/1ArzH-OEGmbuvZMQt_zzSqHJwBABbIdRA/preview)https://drive.google.com/file/d/1ArzH-OEGmbuvZMQt_zzSqHJwBABbIdRA/preview
+https://drive.google.com/file/d/1ArzH-OEGmbuvZMQt_zzSqHJwBABbIdRA/preview
 
