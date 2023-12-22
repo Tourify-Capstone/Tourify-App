@@ -45,3 +45,8 @@ To develop an application using this stack, follow these steps:
 2. Download the app repository from GitHub.
 3. Run Android Studio and open the application project.
 4. Study the documentation and usage of each of the libraries listed above for proper integration in the project.
+
+## Video Demo
+
+<iframe src="https://drive.google.com/file/d/1ArzH-OEGmbuvZMQt_zzSqHJwBABbIdRA/preview"></iframe>
+
